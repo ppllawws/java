@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-8.0.33">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/For java/mysql-connector-j-8.0.33.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/For java/poi-5.2.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/For java/poi-ooxml-5.2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
